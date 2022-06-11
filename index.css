@@ -1,0 +1,72 @@
+body {
+      background-color : black;
+}
+
+a {
+      background-color : black;
+      color : red;
+      text-decoration: none;
+      text-transform: uppercase;
+      line-height: 55px;
+      text-align: center;
+      border-radius: 40px;
+      width: 15%;
+      height: 6%;
+      border-style: solid;
+      border-width: 5px;
+      }
+      
+a:hover {
+            color: white;
+            background-color: black;
+            }      
+            
+.btn1 {
+      position: absolute;
+      margin-top: 5%;
+      margin-left: 40%;
+      } 
+      
+.btn2 {
+      position: absolute;
+      margin-top: 10%;
+      margin-left: 40%;
+      } 
+      
+.btn3 {
+      position: absolute;
+      margin-top: 15%;
+      margin-left: 40%;
+      } 
+      
+.btn4 {
+      position: absolute;
+      margin-top: 20%;
+      margin-left: 40%;
+      } 
+      
+.btn5 {
+      position: absolute;
+      margin-top: 25%;
+      margin-left: 40%;
+      }     
+      
+.btn1:hover {
+            color: white;
+}   
+
+.btn2:hover {
+            color: cyan;
+} 
+
+.btn3:hover {
+            color: lime;
+} 
+
+.btn4:hover {
+            color: yellow;
+} 
+
+.btn5:hover {
+            color: orange;
+}                      
